@@ -1,0 +1,1 @@
+ANDROID_DEVICE_NAME = 'adb shell getprop ro.product.model'
